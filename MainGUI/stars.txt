@@ -1,0 +1,5 @@
+1003, Athena, Andrews, 5155.55, 6300.5, 223.25, South, Email, aandrews@officexec.com
+1005, Bob, Wells, 3050.45, 6305.0, 4320.0, North, Phone, 800-555-5444
+1007, Benjamin, Stilts, 4500.0, 5500.23, 1500.45, East, Email, bjstilts@yahoo.com
+1008, Richard, Gomez, 5500.0, 3670.87, 2000.0, North, Email, richgmoney@gmail.com
+1009, Dwight, Schrute, 3500.5, 6871.25, 1248.25, East, Phone, 452-698-8889

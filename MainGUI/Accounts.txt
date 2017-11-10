@@ -1,0 +1,8 @@
+1001, Jennifer, Ward, 2140.2, 5200.1, 455.23, North, Phone, 555-555-5555
+1003, Athena, Andrews, 5155.55, 6300.5, 223.25, South, Email, aandrews@officexec.com
+1004, Mary, Jones, 350.0, 690.1, 3000.5, East, Visit, At office
+1005, Bob, Wells, 3050.45, 6305.0, 4320.0, North, Phone, 800-555-5444
+1006, Jim, Weathers, 1000.0, 2500.0, 150.25, South, Phone, 784-784-7841
+1007, Benjamin, Stilts, 4500.0, 5500.23, 1500.45, East, Email, bjstilts@yahoo.com
+1008, Richard, Gomez, 5500.0, 3670.87, 2000.0, North, Email, richgmoney@gmail.com
+1009, Dwight, Schrute, 3500.5, 6871.25, 1248.25, East, Phone, 452-698-8889
