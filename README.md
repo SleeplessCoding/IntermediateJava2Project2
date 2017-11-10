@@ -4,10 +4,15 @@ This is a JFrame GUI application which will allow for a user to input sales rep 
 
 
 Swing Components used:
+
 JFrame – application base window, includes close button, includes minimize button, and large window button. 
+
 JLabel – to label all text input boxes as well as the combobox’s used 
+
 JComboBox – First one is for district selection of North, South, East or West. Second is used to select form of preferred contact (phone, email). These are drop down menus and I selected this because I prefer the appearance and optimization of space in comparison to JRadioButtons or JCheckBoxs. 
+
 JTextField – For every variable that will be stored from user input I used the JTextField. These come after the JLabels and receive user input such as String or int data.
+
 JButton – This is used for our Enter button that will echo the user input and store the input as variable data. It is also used for our Quit button, which will close the program. This can be linked to a JOptionPane confirmation in case they do not want to close the program. 
 
 
