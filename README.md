@@ -1,4 +1,4 @@
-# IntermediateJava2Project2
+# Intermediate Java 2 - Project Addition #4
 
 This is a JFrame GUI application which will allow for a user to input sales rep ID, First name, Last name, Total sold (office supplies, books, and paper), select a sales district (North, South, East, or West), and a preferred means of contact. There will be validation in the user input and a button that saves the user input as variable data. We will also create a quit button that closes the program when selected.
 
